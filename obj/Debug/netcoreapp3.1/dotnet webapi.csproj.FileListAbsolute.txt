@@ -1,0 +1,21 @@
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\dotnet webapi.exe
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\dotnet webapi.deps.json
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\dotnet webapi.runtimeconfig.json
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\dotnet webapi.runtimeconfig.dev.json
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\dotnet webapi.dll
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\bin\Debug\netcoreapp3.1\dotnet webapi.pdb
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.csproj.AssemblyReference.cache
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.AssemblyInfoInputs.cache
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.AssemblyInfo.cs
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.csproj.CoreCompileInputs.cache
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\staticwebassets\dotnet webapi.StaticWebAssets.Manifest.cache
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\staticwebassets\dotnet webapi.StaticWebAssets.xml
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\dotnet webapi.styles.css
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.RazorTargetAssemblyInfo.cache
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.dll
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.pdb
+C:\Users\bhaskarjha\Downloads\dotnet webapi\dotnet webapi\obj\Debug\netcoreapp3.1\dotnet webapi.genruntimeconfig.cache
